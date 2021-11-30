@@ -126,31 +126,35 @@ custom = Thin;
 customParameters = (
 {
 name = typoAscender;
-value = 750;
+value = 900;
 },
 {
 name = typoDescender;
-value = -250;
+value = -300;
 },
 {
 name = typoLineGap;
-value = 200;
-},
-{
-name = winAscent;
-value = 950;
-},
-{
-name = winDescent;
-value = 250;
+value = 0;
 },
 {
 name = hheaAscender;
-value = 950;
+value = 900;
 },
 {
 name = hheaDescender;
-value = -250;
+value = -300;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
+name = winAscent;
+value = 900;
+},
+{
+name = winDescent;
+value = 300;
 },
 {
 name = strikeoutPosition;
@@ -203,31 +207,35 @@ custom = Black;
 customParameters = (
 {
 name = typoAscender;
-value = 750;
+value = 900;
 },
 {
 name = typoDescender;
-value = -250;
+value = -300;
 },
 {
 name = typoLineGap;
-value = 200;
-},
-{
-name = winAscent;
-value = 950;
-},
-{
-name = winDescent;
-value = 250;
+value = 0;
 },
 {
 name = hheaAscender;
-value = 950;
+value = 900;
 },
 {
 name = hheaDescender;
-value = -250;
+value = -300;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
+name = winAscent;
+value = 900;
+},
+{
+name = winDescent;
+value = 300;
 },
 {
 name = strikeoutPosition;
