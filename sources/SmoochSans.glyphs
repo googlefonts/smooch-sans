@@ -8,7 +8,8 @@ ABCDEFGHIJKLMNOPQRSTUVWXYZ,
 "HH/Placeholder HO/Placeholder OOFAF/space GAG\012A/Placeholder A/space B/Placeholder B/space C/Placeholder C/space D/Placeholder D/space E/Placeholder E/space F/Placeholder F/space G/Placeholder G/space H/Placeholder H/space I/Placeholder I/space/space J/Placeholder J/space K/Placeholder K/space L/Placeholder L/space M/Placeholder M/space N/Placeholder N/space O/Placeholder O/space P/Placeholder P/space Q/Placeholder Q/space R/Placeholder R/space S/Placeholder S/space T/Placeholder T/space U/Placeholder U/space V/Placeholder V/space W/Placeholder W/space X/Placeholder X/space Y/Placeholder Y/space Z/Placeholder Z/space HH/Placeholder HO/Placeholder OO\012O/space A/space ABCDEFGHIJKLMNOPQROSTUWXCYVZ/space AWARD/space OVO/space AVATAR/space YOU/space AFAIK/space ALL/space ATALL/space TOMATO/space PAIN/space AUSTRAL/space OVOIDE/space OXO/space OYO/space AMAYA/space TIT/space FOLD/space AVANZAR/space ALTAR/space LYON/space ARVO/space RAYALAN/space MY/space ALVARO/space \012Peto/space Fosforo/space Pato/space Pito/space Feo/space Tuvo/space TieneTaraTermo/space Tomate/space Yuno/space Yin/space Yale/space You/space Yeyo/space Fio/space Falaz/space Wonder/space Volcan/space Wals/space Well/space/space Winston/space Wulc/space/space Viene/space Variar/space Velocidad/space Kellogs/space Kunst/space Kale/space \012LORD/space PJROJO/space WYN",
 "a/Placeholder a/space b/Placeholder b/space c/Placeholder c/space d/Placeholder d/space e/Placeholder e/space f/Placeholder f/space g/Placeholder g/space h/Placeholder h/space i/Placeholder i/space jjj/space k/Placeholder k/space l/Placeholder l/space m/Placeholder m/space n/Placeholder n/space o/Placeholder o/space p/Placeholder p/space q/Placeholder q/space r/Placeholder r/space s/Placeholder s/space t/Placeholder t/space u/Placeholder u/space v/Placeholder v/space w/Placeholder w/space x/Placeholder x/space y/Placeholder y/space z/Placeholder z\012nn/Placeholder no/Placeholder oo\012ABCDEFGHIJnnKvLMNOPQRSeTUVwlcanoWXYZfear/space fall/space kilwo/space long/space ovoide/space want/space wind/space oxo/space zapato/space award\012Twombli/space Tgmaiwan/space Taiwan/space Tomato/space Temperture/space Tiro/space Twardock/space Walking/space Wonder/space Wc/space Wd/space/space Wrcnder/space/space You/space Family/space Fear/space Furor/space Vocal/space Viajar/space Zusam/space Pearl/space Point/space Pain/space Ayuda/space \012Kilo/space Londres/space/nbspace Leon/space Lio/space Month/acaron",
 ABCDEFGHIJKLMNOPQRSTUVWXYZ,
-"/Oslashacute ø/oslashacute {}dd/strokeshortcomb/dcroat d/dcroat/dong nnn/franc"
+"/Oslashacute ø/oslashacute {}dd/strokeshortcomb/dcroat d/dcroat/dong nnn/franc",
+"0123456789"
 );
 copyright = "Copyright 2016 The Smooch Sans Project Authors (https://github.com/googlefonts/smooch-sans)";
 customParameters = (
@@ -62,7 +63,7 @@ value = 1;
 },
 {
 name = "Variable Font Origin";
-value = "B5FD97B6-BD2C-4287-9857-851C623D3F63";
+value = "6AABE730-D951-472C-A552-DEE34E1BBDD6";
 }
 );
 date = "2021-09-15 19:36:08 +0000";
@@ -33141,7 +33142,7 @@ unicode = 0033;
 },
 {
 glyphname = four;
-lastChange = "2021-11-29 17:05:48 +0000";
+lastChange = "2021-11-30 04:12:07 +0000";
 layers = (
 {
 background = {
@@ -33177,7 +33178,6 @@ paths = (
 {
 closed = 1;
 nodes = (
-"336 0 LINE",
 "346 0 LINE",
 "346 132 LINE",
 "446 132 LINE",
@@ -33187,15 +33187,16 @@ nodes = (
 "340 620 LINE",
 "30 140 LINE",
 "36 132 LINE",
-"336 132 LINE"
+"336 132 LINE",
+"336 0 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"43 141 LINE",
 "336 598 LINE",
-"336 141 LINE"
+"336 141 LINE",
+"43 141 LINE"
 );
 }
 );
@@ -38018,6 +38019,21 @@ width = 442;
 );
 note = hyphen;
 unicode = 002D;
+},
+{
+glyphname = softhyphen;
+lastChange = "2021-11-30 04:06:02 +0000";
+layers = (
+{
+layerId = "6AABE730-D951-472C-A552-DEE34E1BBDD6";
+width = 0;
+},
+{
+layerId = "D686CB0C-BBDB-4E69-8E5A-045D5C85CA47";
+width = 442;
+}
+);
+unicode = 00AD;
 },
 {
 glyphname = endash;
@@ -59568,5 +59584,5 @@ tH = "112";
 };
 };
 versionMajor = 1;
-versionMinor = 1;
+versionMinor = 2;
 }
