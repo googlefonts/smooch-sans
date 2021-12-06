@@ -7,10 +7,8 @@ ABCDEFGHIJKLMNOPQRSTUVWXYZ,
 "MNj/Eng Ø/OE Q/Germandbls VWXYðmsßw23³?}¤/lira/liraTurkish/naira/rupeeIndian £/won W¥/partialdiff &§©®/trademark/hookabovecomb",
 "HH/Placeholder HO/Placeholder OOFAF/space GAG\012A/Placeholder A/space B/Placeholder B/space C/Placeholder C/space D/Placeholder D/space E/Placeholder E/space F/Placeholder F/space G/Placeholder G/space H/Placeholder H/space I/Placeholder I/space/space J/Placeholder J/space K/Placeholder K/space L/Placeholder L/space M/Placeholder M/space N/Placeholder N/space O/Placeholder O/space P/Placeholder P/space Q/Placeholder Q/space R/Placeholder R/space S/Placeholder S/space T/Placeholder T/space U/Placeholder U/space V/Placeholder V/space W/Placeholder W/space X/Placeholder X/space Y/Placeholder Y/space Z/Placeholder Z/space HH/Placeholder HO/Placeholder OO\012O/space A/space ABCDEFGHIJKLMNOPQROSTUWXCYVZ/space AWARD/space OVO/space AVATAR/space YOU/space AFAIK/space ALL/space ATALL/space TOMATO/space PAIN/space AUSTRAL/space OVOIDE/space OXO/space OYO/space AMAYA/space TIT/space FOLD/space AVANZAR/space ALTAR/space LYON/space ARVO/space RAYALAN/space MY/space ALVARO/space \012Peto/space Fosforo/space Pato/space Pito/space Feo/space Tuvo/space TieneTaraTermo/space Tomate/space Yuno/space Yin/space Yale/space You/space Yeyo/space Fio/space Falaz/space Wonder/space Volcan/space Wals/space Well/space/space Winston/space Wulc/space/space Viene/space Variar/space Velocidad/space Kellogs/space Kunst/space Kale/space \012LORD/space PJROJO/space WYN",
 "a/Placeholder a/space b/Placeholder b/space c/Placeholder c/space d/Placeholder d/space e/Placeholder e/space f/Placeholder f/space g/Placeholder g/space h/Placeholder h/space i/Placeholder i/space jjj/space k/Placeholder k/space l/Placeholder l/space m/Placeholder m/space n/Placeholder n/space o/Placeholder o/space p/Placeholder p/space q/Placeholder q/space r/Placeholder r/space s/Placeholder s/space t/Placeholder t/space u/Placeholder u/space v/Placeholder v/space w/Placeholder w/space x/Placeholder x/space y/Placeholder y/space z/Placeholder z\012nn/Placeholder no/Placeholder oo\012ABCDEFGHIJnnKvLMNOPQRSeTUVwlcanoWXYZfear/space fall/space kilwo/space long/space ovoide/space want/space wind/space oxo/space zapato/space award\012Twombli/space Tgmaiwan/space Taiwan/space Tomato/space Temperture/space Tiro/space Twardock/space Walking/space Wonder/space Wc/space Wd/space/space Wrcnder/space/space You/space Family/space Fear/space Furor/space Vocal/space Viajar/space Zusam/space Pearl/space Point/space Pain/space Ayuda/space \012Kilo/space Londres/space/nbspace Leon/space Lio/space Month/acaron",
-"3¾/space cup/space of/space water",
-"/hookabovecomb.case/Ahookabove",
-"d/dcaron e",
-"µ"
+"AÁ/Abreve/Abreveacute/Abrevedotbelow/Abrevegrave/Abrevehookabove/Abrevetilde/Acaron Â/Acircumflexacute/Acircumflexdotbelow/Acircumflexgrave/Acircumflexhookabove/Acircumflextilde/Adblgrave Ä/Adotbelow À/Ahookabove/Ainvertedbreve/Amacron A/Aogonek Å/Aringacute Ã",
+"E/Eogonek"
 );
 classes = (
 {
@@ -615,7 +613,7 @@ unicode = 00A0;
 },
 {
 glyphname = A;
-lastChange = "2021-12-06 15:51:24 +0000";
+lastChange = "2021-12-06 16:16:08 +0000";
 layers = (
 {
 anchors = (
@@ -705,7 +703,7 @@ position = "{204, 0}";
 },
 {
 name = ogonek;
-position = "{367, 10}";
+position = "{428, 10}";
 },
 {
 name = top;
@@ -1968,7 +1966,7 @@ unicode = 0100;
 },
 {
 glyphname = Aogonek;
-lastChange = "2021-12-06 15:51:24 +0000";
+lastChange = "2021-12-06 16:16:08 +0000";
 layers = (
 {
 background = {
@@ -2010,7 +2008,7 @@ name = A;
 },
 {
 name = ogonekcomb;
-transform = "{1, 0, 0, 1, 158, -2}";
+transform = "{1, 0, 0, 1, 219, -2}";
 }
 );
 layerId = "D686CB0C-BBDB-4E69-8E5A-045D5C85CA47";
@@ -3794,7 +3792,7 @@ unicode = 01C5;
 },
 {
 glyphname = E;
-lastChange = "2021-12-06 15:52:22 +0000";
+lastChange = "2021-12-06 16:16:27 +0000";
 layers = (
 {
 anchors = (
@@ -3804,7 +3802,7 @@ position = "{167, 0}";
 },
 {
 name = ogonek;
-position = "{301, 10}";
+position = "{382, 8}";
 },
 {
 name = top;
@@ -4878,7 +4876,7 @@ unicode = 0112;
 },
 {
 glyphname = Eogonek;
-lastChange = "2021-12-06 15:52:22 +0000";
+lastChange = "2021-12-06 16:16:27 +0000";
 layers = (
 {
 background = {
@@ -4897,7 +4895,7 @@ name = E;
 },
 {
 name = ogonekcomb;
-transform = "{1, 0, 0, 1, 118, 0}";
+transform = "{1, 0, 0, 1, 199, -2}";
 }
 );
 layerId = "6AABE730-D951-472C-A552-DEE34E1BBDD6";
