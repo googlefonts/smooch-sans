@@ -75,6 +75,22 @@ value = 1;
 {
 name = "Variable Font Origin";
 value = "8D18FF0A-5ED1-4DAE-9C0E-C123A2F72826";
+},
+{
+name = "Axis Mappings";
+value = {
+wght = {
+100 = 20;
+200 = 28;
+300 = 38;
+400 = 50;
+500 = 66;
+600 = 84;
+700 = 106;
+800 = 130;
+900 = 150;
+};
+};
 }
 );
 date = "2021-09-15 19:36:08 +0000";
@@ -51484,5 +51500,5 @@ tH = "112";
 };
 };
 versionMajor = 1;
-versionMinor = 9;
+versionMinor = 10;
 }
